@@ -11,4 +11,4 @@ DuckDB is a modern, high-performance, in-memory analytical database management s
 - Cross-Platform Support: DuckDB operates across multiple operating systems, including Linux, macOS, and Windows, and supports various hardware architectures. It offers client APIs for major programming languages, facilitating integration into diverse development environments. 
 - Open Source and Free: Licensed under the permissive MIT License, DuckDB is free to use and open-source, encouraging community contributions and rapid development. 
 
-Here’s an example comparing DuckDB with SQLite and Pandas in a Python notebook for executing analytical queries on a dataset.
+## Here’s an example comparing DuckDB with SQLite and Pandas in a Python notebook for executing analytical queries on a dataset.
