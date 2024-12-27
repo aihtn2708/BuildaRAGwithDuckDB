@@ -15,4 +15,6 @@ DuckDB is a modern, high-performance, in-memory analytical database management s
 **
 [duckdb_demo.ipynb](https://github.com/aihtn2708/BuildaRAGwithDuckDB/blob/2a8d75963b5b0e6f75eecb1eba45aac17e9c04ba/duckdb_demo.ipynb)
 
-## Here’s an example comparing DuckDB with SQLite and Pandas in a Python notebook for executing analytical queries on a dataset.
+## Comparing DuckDB with SQLite and Pandas in a Python notebook for executing analytical queries on a dataset:
+
+
